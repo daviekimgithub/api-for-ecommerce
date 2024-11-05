@@ -14,8 +14,8 @@ Designed with simplicity, security, and efficiency in mind, this API invites you
   - [API Endpoints](#api-endpoints)
   - [Security](#security)
   - [Documentation](#documentation)
-    - [API Documentation](#api-documentation)
-    - [Postman Documentation](#postman-documentation)
+      - [API Documentation](#api-documentation)
+      - [Postman Documentation](#postman-documentation)
   - [Useful Takeaways](#useful-takeaways)
 
 ## Introduction
@@ -32,7 +32,7 @@ This Express.js application serves as the backend for an e-commerce platform, cr
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/edriso/ecommerce-api.git`
+1. Clone the repository: `git clone https://github.com/daviekimgithub/api-for-ecommerce.git`
 2. Install dependencies: `npm install`
 3. Rename the `.env.example` file to `.env`.
 4. Open the `.env` file and set the environment variables specified within.
